@@ -1,0 +1,55 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <com.example.arimaa.CustomView
+        android:id="@+id/cv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_purple"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/currentPlayerTV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Start Game"
+            android:textSize="60px"/>
+        <TextView
+            android:id="@+id/error_msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="60px"/>
+
+        <Button
+            android:id="@+id/finishMove"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Finish Move" />
+        <Button
+            android:id="@+id/pull"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Pull" />
+        <Button
+            android:id="@+id/undo"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Undo Current Move" />
+
+        <Button
+            android:id="@+id/resetBtn"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Reset" />
+
+
+    </LinearLayout>
+</LinearLayout>

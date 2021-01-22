@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e8a5163-aa93-4a6c-9518-4e6eb52c5acc" name="Default Changelist" comment="Bracket 7&#10;    • Enable a larger piece to pull a smaller piece this should count as two&#10;    moves. A dialog will be useful here to ask if the user wants to move&#10;    their own piece only (single move) or pull the opposing piece with it&#10;    (two moves).&#10;    • Add in an undo feature for the current turn to undo moves made&#10;    during the current turn before committing." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_XL_API_30]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gbenga Adeyemi &lt;adeyemigbenga546@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mHvJ8HIXis7tXkYO99AxtXv56o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_XL_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-08T19:37:02.495Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/sijoj/AndroidStudioProjects/Arimaa/app/src/main/java/com/example/arimaa/CustomView.java_SELECTED" value="CustomView" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="D:/Studies/Android/Prem/MyApplication" />
+    <property name="multi-representation-previewC:/Users/sijoj/AndroidStudioProjects/Arimaa/app/src/main/java/com/example/arimaa/CustomView.java_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sijoj\AndroidStudioProjects\Arimaa\app\src\main\res\drawable-v24" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Arimaa.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e8a5163-aa93-4a6c-9518-4e6eb52c5acc" name="Default Changelist" comment="" />
+      <created>1609163255033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609163255033</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Bracket 1 (10%)&#10;• Create a single page layout containing a single instance of your custom view for Arimaa. Bracket failure if more than one instance&#10;is used.&#10;• Create the shell of a custom view that is forced to be square in size.&#10;• Allow a player to make one to four moves during their turn.">
+      <created>1609780817958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609780817958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bracket 2 (20%)&#10;   Render an 8x8 board with the four trap squares in place.&#10;   Render the initial state of the game which is the following:&#10;    – 8 rabbits on the back row.&#10;    – In the row in front of the rabbits: cat, dog, horse, camel, elephant, horse, dog, cat.&#10;   Maintain a history of the board after every move. If a board has&#10;   been seen before do not accept the move">
+      <created>1609893751114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609893751114</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" Bracket 3 (30%)&#10;• Add in a UI element to allow a player to finish their turn and switch&#10;to the other player. If the state of the board has not changed during&#10;the move refuse to change to the other player.&#10;• Enable touch input to accept two touches to make a move. One&#10;touch to select the piece (highlight the selected piece), and one touch&#10;to make the move (highlight the squares that the piece can move to).&#10;All pieces may move one step forward, backward, left, or right as a&#10;move. Rabbits cannot move backward.">
+      <created>1609971368091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609971368091</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bracket 4 (40%)&#10;• Have a UI element to indicate who the current player is&#10;• Have a UI element to show a message explaining why a turn is not&#10;accepted.&#10;• Have a UI element to reset the game.">
+      <created>1610059091850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610059091850</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" Bracket 5 (50%)&#10;• If a smaller piece lands next to a larger piece render it immobile.&#10;Should the larger piece move away allow this piece to move again.&#10;• Enable a larger piece to push a smaller piece. This should count as&#10;two moves">
+      <created>1610149347665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610149347665</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" Bracket 6 (60%)&#10;• If a piece lands in a trap square remove it unless there is a friendly&#10;piece adjacent to it.&#10;• End the game if a rabbit gets to the other side.">
+      <created>1610286466848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610286466849</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Bracket 7&#10;    • Enable a larger piece to pull a smaller piece this should count as two&#10;    moves. A dialog will be useful here to ask if the user wants to move&#10;    their own piece only (single move) or pull the opposing piece with it&#10;    (two moves).&#10;    • Add in an undo feature for the current turn to undo moves made&#10;    during the current turn before committing.">
+      <created>1610313379633</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610313379633</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bracket 1 (10%)&#10;• Create a single page layout containing a single instance of your custom view for Arimaa. Bracket failure if more than one instance&#10;is used.&#10;• Create the shell of a custom view that is forced to be square in size.&#10;• Allow a player to make one to four moves during their turn." />
+    <MESSAGE value="Bracket 2 (20%)&#10;   Render an 8x8 board with the four trap squares in place.&#10;   Render the initial state of the game which is the following:&#10;    – 8 rabbits on the back row.&#10;    – In the row in front of the rabbits: cat, dog, horse, camel, elephant, horse, dog, cat.&#10;   Maintain a history of the board after every move. If a board has&#10;   been seen before do not accept the move" />
+    <MESSAGE value=" Bracket 3 (30%)&#10;• Add in a UI element to allow a player to finish their turn and switch&#10;to the other player. If the state of the board has not changed during&#10;the move refuse to change to the other player.&#10;• Enable touch input to accept two touches to make a move. One&#10;touch to select the piece (highlight the selected piece), and one touch&#10;to make the move (highlight the squares that the piece can move to).&#10;All pieces may move one step forward, backward, left, or right as a&#10;move. Rabbits cannot move backward." />
+    <MESSAGE value="Bracket 4 (40%)&#10;• Have a UI element to indicate who the current player is&#10;• Have a UI element to show a message explaining why a turn is not&#10;accepted.&#10;• Have a UI element to reset the game." />
+    <MESSAGE value=" Bracket 5 (50%)&#10;• If a smaller piece lands next to a larger piece render it immobile.&#10;Should the larger piece move away allow this piece to move again.&#10;• Enable a larger piece to push a smaller piece. This should count as&#10;two moves" />
+    <MESSAGE value=" Bracket 6 (60%)&#10;• If a piece lands in a trap square remove it unless there is a friendly&#10;piece adjacent to it.&#10;• End the game if a rabbit gets to the other side." />
+    <MESSAGE value="Bracket 7&#10;    • Enable a larger piece to pull a smaller piece this should count as two&#10;    moves. A dialog will be useful here to ask if the user wants to move&#10;    their own piece only (single move) or pull the opposing piece with it&#10;    (two moves).&#10;    • Add in an undo feature for the current turn to undo moves made&#10;    during the current turn before committing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bracket 7&#10;    • Enable a larger piece to pull a smaller piece this should count as two&#10;    moves. A dialog will be useful here to ask if the user wants to move&#10;    their own piece only (single move) or pull the opposing piece with it&#10;    (two moves).&#10;    • Add in an undo feature for the current turn to undo moves made&#10;    during the current turn before committing." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="86" key="#app" timestamp="1609803951703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="86" key="#app/0.0.1536.824@0.0.1536.824" timestamp="1609803951703" />
+    <state x="517" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609590371122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1609590371122" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1609165180656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609165180656" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609602740909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609602740909" />
+    <state x="753" y="125" key="#xdebugger.evaluate" timestamp="1610288870674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="753" y="125" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1610288870674" />
+    <state x="93" y="93" width="1350" height="640" key="AVDManager" timestamp="1610233100759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="640" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1610233100759" />
+    <state x="565" y="158" key="AndroidProcessChooserDialog" timestamp="1609167803014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="158" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1609167803014" />
+    <state x="73" y="0" width="1067" height="824" key="CommitChangelistDialog2" timestamp="1610320267665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="73" y="0" width="1067" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610320267665" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1610303652527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1610303652527" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610978199022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610978199022" />
+    <state width="1491" height="85" key="GridCell.Tab.0.bottom" timestamp="1610313415401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="85" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610313415401" />
+    <state width="1491" height="85" key="GridCell.Tab.0.center" timestamp="1610313415400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="85" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610313415400" />
+    <state width="1491" height="85" key="GridCell.Tab.0.left" timestamp="1610313415399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="85" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610313415399" />
+    <state width="1491" height="85" key="GridCell.Tab.0.right" timestamp="1610313415400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="85" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610313415400" />
+    <state width="1491" height="85" key="GridCell.Tab.1.bottom" timestamp="1610313415401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="85" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610313415401" />
+    <state width="1491" height="85" key="GridCell.Tab.1.center" timestamp="1610313415401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="85" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610313415401" />
+    <state width="1491" height="85" key="GridCell.Tab.1.left" timestamp="1610313415401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="85" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610313415401" />
+    <state width="1491" height="85" key="GridCell.Tab.1.right" timestamp="1610313415401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="85" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610313415401" />
+    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1609602752403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1609602752403" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610303652527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1610303652527" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609971340711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1609971340711" />
+    <state x="475" y="169" key="refactoring.ChangeSignatureDialog" timestamp="1610282328664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="169" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1610282328664" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1610306474074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1610306474074" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/arimaa/CustomView.java</url>
+          <line>894</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/arimaa/CustomView.java</url>
+          <line>480</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/arimaa/CustomView.java</url>
+          <line>452</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/arimaa/CustomView.java</url>
+          <line>316</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/arimaa/CustomView.java</url>
+          <line>293</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
